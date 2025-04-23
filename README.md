@@ -23,8 +23,8 @@ Step 7: Review and Create IAM User
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER: 212223040025
-### NAME: BASKAR J
+### REG NUMBER: 212223040105
+### NAME: LOKESHVARAN S
 ![Screenshot (155)](https://github.com/user-attachments/assets/e6532dc6-f801-4ba9-bece-f4cbc57ac4de)
 ![Screenshot (63)](https://github.com/user-attachments/assets/070c37e3-dc20-4056-80a8-a15933880198)
 
